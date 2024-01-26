@@ -1,3 +1,17 @@
+## Projeto react de uma loja com carrinho de compras.
+
+O projeto foi desenvolvido em react, e tem como intuito simular uma loja com produtos e um carrinho de compras. Para a exibição de produtos foi utilizado a api do mercadolivre.
+
+## O que foi utilizado neste projeto.
+
+Esse projeto foi desenvolvido por mim, para praticar alguns conceitos aprendidos sobre react, como:
+
+- Components
+- Hooks (useState, useEffect, useNavigate)
+- Paginação com react router dom
+- Manipulação de Api (Fetch)
+- Gerenciamento de estado global (ContextApi)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

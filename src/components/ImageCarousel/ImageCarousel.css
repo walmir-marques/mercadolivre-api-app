@@ -1,0 +1,15 @@
+.carousel-image {
+  width: 500px;
+  height: 500px;
+}
+
+.carousel-button {
+  border: none;
+  padding: 10px;
+  background: none;
+  font-size: 30px;
+}
+
+.carousel {
+  width: 600px;
+}

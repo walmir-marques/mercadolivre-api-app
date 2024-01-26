@@ -1,0 +1,10 @@
+.cart-resume {
+  position: fixed;
+  bottom: 0px;
+  background-color: cornflowerblue;
+  color: white;
+  font-size: 2rem;
+  padding: 20px;
+  width: 100%;
+  text-align: center;
+}

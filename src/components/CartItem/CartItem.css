@@ -1,0 +1,19 @@
+.cart-item {
+  margin: 20px auto;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid cornflowerblue;
+}
+
+.button-remove-item {
+  padding: 10px;
+  height: 100px;
+  border: none;
+}
+
+.cart-item-price {
+  text-align: center;
+  margin-top: 20px;
+}

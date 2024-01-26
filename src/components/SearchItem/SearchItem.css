@@ -1,0 +1,20 @@
+.search-form-input {
+  padding: 6px;
+  width: 400px;
+  font-size: 1rem;
+  border: none;
+  outline: none;
+}
+
+.search-form-button {
+  font-size: 1rem;
+  padding: 5px 10px;
+  cursor: pointer;
+  border: none;
+}
+
+@media screen and (max-width: 700px) {
+  .search-form-input {
+    width: 200px;
+  }
+}

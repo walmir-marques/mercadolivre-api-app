@@ -1,0 +1,25 @@
+.header {
+  background: rgb(173, 198, 244);
+  background: linear-gradient(
+    90deg,
+    rgba(173, 198, 244, 1) 0%,
+    rgba(100, 149, 237, 1) 37%,
+    rgba(41, 105, 220, 1) 100%
+  );
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.header-items {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+}
+
+.header-logo {
+  text-decoration: none;
+  font-weight: 800;
+  font-size: 1.6rem;
+  color: white;
+}
